@@ -3,7 +3,7 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/MirosmarOliveira?label=Followers&style=social)](https://github.com/MirosmarOliveira?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) <!--  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MirosmarOliveira.MirosmarOliveira)  -->
+[![GitHub followers](https://img.shields.io/github/followers/MirosmarOliveira?label=Followers&style=social)](https://github.com/MirosmarOliveira?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MirosmarOliveira.MirosmarOliveira) 
 
 <!-- ![Mirosmar Oliveira github stats](https://github-readme-stats.vercel.app/api?username=MirosmarOliveira&show_icons=true&theme=radical)-->
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirosmarOliveira&show_icons=true&theme=radical" /></td>
