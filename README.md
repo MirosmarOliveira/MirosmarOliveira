@@ -1,28 +1,22 @@
-### Hey you :pushpin: 
-#####  Im just another developer doing what I like and having a lot of fun with the challenges of each day.
+### Hey you :pushpin:
 
+I'm just another developer doing what I like and having a lot of fun with the challenges of each day.
 
+![GitHub followers](https://img.shields.io/github/followers/MirosmarOliveira?label=Followers&style=social)
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
+![Visitors](https://komarev.com/ghpvc/?username=MirosmarOliveira&color=brightgreen&style=flat-square)
 
-[![GitHub followers](https://img.shields.io/github/followers/MirosmarOliveira?label=Followers&style=social)](https://github.com/MirosmarOliveira?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MirosmarOliveira.MirosmarOliveira) 
+<table>
+  <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirosmarOliveira&show_icons=true&theme=radical" /></td>
+    <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=MirosmarOliveira&show_icons=true&theme=radical" /></td>
+  </tr>
+</table>
 
-<!-- ![Mirosmar Oliveira github stats](https://github-readme-stats.vercel.app/api?username=MirosmarOliveira&show_icons=true&theme=radical)-->
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirosmarOliveira&show_icons=true&theme=radical" /></td>
-
-<td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=MirosmarOliveira&show_icons=true&theme=radical"/></td>                     
-
-   [![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://github.com/aleen42/badges)   [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://github.com/aleen42/badges)  [![Java](https://badges.aleen42.com/src/java.svg)](https://github.com/aleen42/badges)    [![React](https://aleen42.github.io/badges/src/react.svg)](https://github.com/aleen42/badges)   [![Node](https://aleen42.github.io/badges/src/node.svg)](https://github.com/aleen42/badges)   [![VS Code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://github.com/aleen42/badges)
- 
-<!--
-**MirosmarOliveira/MirosmarOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tech Stack -->
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
